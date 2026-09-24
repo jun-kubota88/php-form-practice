@@ -13,3 +13,6 @@ COACHTECH 教材 Tutorial 7-4「フォームとデータ受け渡し ハンズ�
 
 ## 動作確認
 （**(http://localhost:8000/7-4-3_hands-on/practice/input.php)にアクセスし、正常に動作することを確認しました。**）
+<img width="1004" height="711" alt="image" src="https://github.com/user-attachments/assets/25083d57-34ba-48af-94bd-947205d8df46" />
+<img width="1146" height="778" alt="image" src="https://github.com/user-attachments/assets/be094f5a-a66a-4842-b7dc-c2ae919fab69" />
+<img width="1152" height="577" alt="image" src="https://github.com/user-attachments/assets/3a527243-0da3-4735-9ec4-7345cfc8d693" />
